@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zara070613
-- 👀 I’m interested in kpop
+if there's no Risk, it aint be called a life.
 
 <!---
 zara070613/zara070613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
